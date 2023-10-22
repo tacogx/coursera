@@ -1,0 +1,8 @@
+
+
+
+Coursera - Facebook Backend Dev - Python - Week 3 - OOP Principles
+
+
+Encapsulation:
+- What is it? : 
